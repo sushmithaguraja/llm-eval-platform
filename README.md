@@ -22,9 +22,3 @@ A modular LLM evaluation system that benchmarks multiple language models using d
 - `app.py` → dashboard UI
 
 ---
-
-## ⚙️ Setup Instructions
-
-### 1. Install dependencies
-```bash
-pip install openai pandas streamlit requests
