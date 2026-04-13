@@ -1,0 +1,7 @@
+model,question,answer,expected,score,latency
+gpt,What is the capital of France?,The capital of France is Paris.,Paris,1,1.8365247249603271
+gpt,What is 5 + 3?,5 + 3 equals 8.,8,1,1.4776027202606201
+gpt,Who wrote Hamlet?,"""Hamlet"" was written by William Shakespeare. It is one of his most famous tragedies and is believed to have been written between 1599 and 1601.",Shakespeare,1,1.0267024040222168
+llama,What is the capital of France?,The capital of France is Paris.,Paris,1,9.242442607879639
+llama,What is 5 + 3?,The answer to 5 + 3 is 8.,8,1,7.243138074874878
+llama,Who wrote Hamlet?,"Hamlet is a tragedy by William Shakespeare. The exact date of its writing is not certain, but it is believed to have been written between 1599 and 1602.",Shakespeare,1,14.923021793365479

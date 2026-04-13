@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "expected_answer": "Paris"
+  },
+  {
+    "question": "What is 5 + 3?",
+    "expected_answer": "8"
+  },
+  {
+    "question": "Who wrote Hamlet?",
+    "expected_answer": "Shakespeare"
+  }
+]
